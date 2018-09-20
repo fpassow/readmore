@@ -1,0 +1,6 @@
+-->MAKE IT READY FOR OTHERS TO USE
+  -->Finish and test the examples
+  -->Find name of JavaScript's "javadoc"
+  -->Redo comments in its format
+  -->Review, improve comments and code
+  -->Ask Jim to poke at it.
