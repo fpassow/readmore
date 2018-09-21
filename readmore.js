@@ -1,6 +1,6 @@
 /** 
  * Provides "read more" and "read less" functionality for a web page.
-
+ *
  * The user sees a link which says "...read more" at the end of a section of text. 
  * When they click it, they see more content, and a link that says "read less".
  * And clicking "read less" hides the extra content again.
