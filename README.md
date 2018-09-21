@@ -11,8 +11,10 @@ To use, mark some HTML element which contains all the relevant parts with the
 class "readmore-context".
 
 Within the readmore-context element, incude tags like:
+```
 <a href="#" class="readmore">... read more</a>
 <a href="#" class="readless"> read less</a>
+```
 
 You can change the text "...read more" and "read less" to be anything you want.
 
