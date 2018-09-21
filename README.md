@@ -30,7 +30,7 @@ NOTE: Do not put your "readmore" link inside of an element which will be hidden.
 
 Example:
 ```
-<div class="readmore-Context">
+<div class="readmore-context">
 
 <p>This text is always displayed but<a href="#" class="readmore">... read more</a>
 <span class="readmore"> this text is only displayed when the user clicks the reamore

@@ -1,7 +1,0 @@
--->MAKE IT READY FOR OTHERS TO USE
-  DONE>Finish and test the examples
-  DONE>Find name of JavaScript's "javadoc"
-  DONE>Redo comments in its format
-  DONE>Review, improve comments and code
-  -->Host on github
-  -->Ask Jim to poke at it.
